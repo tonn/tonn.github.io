@@ -1,3 +1,4 @@
 # tonn.github.io
 
-https://tonn.github.io/cv
+[My CV/Portfolio](https://tonn.github.io/cv)
+
